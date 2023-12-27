@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - This
+  - DeathArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IcePlace
+  - Water
+  - UI
+  - Ice
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1349608747
+    locked: 0
+  - name: Ice
+    uniqueID: 1332304535
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1021299489
+    locked: 0
